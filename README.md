@@ -2,10 +2,10 @@
 The objective of the project is to employ unsupervised learning algorithms to identify cluster patterns from the dataset, to help the fashion and cosmetic companies in increasing impressions (maximize the visibility of the posts and reach to a wider audience) and hence increase customer engagement on their  facebook page.
 
 ## Terminologies
-1. ### Customer Segmentation or Clustering
+### Customer Segmentation or Clustering
 Segmentation, involves dividing a large customer base into specific groups or segments based on shared characteristics, behaviors, or preferences. 
 
-2. ### Customer Engagement
+### Customer Engagement
 Customer engagement refers to the level of interaction and involvement that a customer has with a brand or company.
 
 ## About the Dataset
